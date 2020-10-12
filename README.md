@@ -23,3 +23,15 @@ An international creative community built around a wealth of user created color 
 #### [Material Design Color Tool](https://material.io/resources/color)
 
 The official Material Design color generator. It is based on the [Material Design color system](https://material.io/design/color/the-color-system.html), meaning that it generates a primary and secondary brand color, as well as light and dark variants.
+
+#### [Color Hunt](https://colorhunt.co/)
+
+Color Hunt is a free and open platform for color inspiration with thousands of useful hand-picked color palettes.
+
+#### [Flat UI Colors](https://flatuicolors.com/)
+
+A total set of 14 color palettes and 280 colors for your designs, projects, presentations etc.
+
+#### [Color Picker for Data](http://tristen.ca/hcl-picker/#/hcl/6/1.08/B9BD71/EAAF0C)
+
+A useful palette generator specifically for data that helps avoid equidistant HSV colors.
